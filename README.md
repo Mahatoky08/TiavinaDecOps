@@ -1,2 +1,2 @@
-# TiavinaDecOps
-Zazamiketrika,🤣
+# TiavinaDevOps
+ZazaMiketrika,🤣
